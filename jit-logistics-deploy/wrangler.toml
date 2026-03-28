@@ -1,0 +1,8 @@
+name = "jit-logistics-app"
+compatibility_date = "2026-03-28"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "jit-logistics-db"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
